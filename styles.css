@@ -125,7 +125,9 @@ nav ul li {
         grid-template-columns: 1fr;
         gap: 15px;
     }
-
+    .first{
+        width: auto;
+    }
     .second {
         width: auto;
     }
