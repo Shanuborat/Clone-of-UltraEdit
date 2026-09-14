@@ -6,6 +6,7 @@ nav {
     justify-content: space-around;
     align-items: end;
     max-width: 100%;
+    margin-right: 5px;
 }
 
 nav ul {
